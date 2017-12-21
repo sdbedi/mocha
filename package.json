@@ -300,6 +300,7 @@
   },
   "scripts": {
     "lint": "eslint . bin/*",
+    "markdownlint": "markdownlint \"*.md\" \"docs/**/*.md\" \".github/*.md\"",
     "test": "make clean && make test",
     "prepublishOnly": "npm test && make clean && make mocha.js",
     "coveralls": "nyc report --reporter=text-lcov | coveralls",
@@ -322,6 +323,7 @@
     "supports-color": "4.4.0"
   },
   "devDependencies": {
+    "@mocha/markdownlint-cli": "^1.0.0",
     "assert": "^1.4.1",
     "assetgraph-builder": "^5.6.4",
     "browserify": "^14.4.0",

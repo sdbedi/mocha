@@ -1,6 +1,6 @@
 ## Backers
 
-Find Mocha helpful?  Become a [backer](https://opencollective.com/mochajs#support) and support Mocha with a monthly donation. 
+Find Mocha helpful?  Become a [backer](https://opencollective.com/mochajs#support) and support Mocha with a monthly donation.
 
 <!-- markdownlint-disable MD034 -->
 {: id="_backers" class="image-list" }
