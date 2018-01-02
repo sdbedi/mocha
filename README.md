@@ -47,11 +47,11 @@ Once we gain ground on the above items, we can work together formalize our contr
 
 ## Links
 
-  - [Documentation](http://mochajs.org)
-  - [Changelog](https://github.com/mochajs/mocha/blob/master/CHANGELOG.md)
-  - [Google Group](http://groups.google.com/group/mochajs)
-  - [Wiki](https://github.com/mochajs/mocha/wiki)
-  - Mocha [Extensions and reporters](https://github.com/mochajs/mocha/wiki)
+- [Documentation](http://mochajs.org)
+- [Changelog](https://github.com/mochajs/mocha/blob/master/CHANGELOG.md)
+- [Google Group](http://groups.google.com/group/mochajs)
+- [Wiki](https://github.com/mochajs/mocha/wiki)
+- Mocha [Extensions and reporters](https://github.com/mochajs/mocha/wiki)
 
 ## Backers
 
